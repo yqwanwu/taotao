@@ -20,15 +20,15 @@
         </dependency>
     </dependencies>
 
-    <build>
-        <!-- 为jar包取名 -->
-        <finalName>service</finalName>
-        <plugins>
-            <plugin>
-                <groupId>org.springframework.boot</groupId>
-                <artifactId>spring-boot-maven-plugin</artifactId>
-            </plugin>
-        </plugins>
-    </build>
+    <!--<build>-->
+        <!--&lt;!&ndash; 为jar包取名 &ndash;&gt;-->
+        <!--<finalName>service</finalName>-->
+        <!--<plugins>-->
+            <!--<plugin>-->
+                <!--<groupId>org.springframework.boot</groupId>-->
+                <!--<artifactId>spring-boot-maven-plugin</artifactId>-->
+            <!--</plugin>-->
+        <!--</plugins>-->
+    <!--</build>-->
 
 </project>
